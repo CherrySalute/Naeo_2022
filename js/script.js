@@ -265,7 +265,7 @@ const rtRoutes = [
 ];
 
 const router1 = new VueRouter({
-    routes : rtRoutes
+    routes: rtRoutes
 });
 
 
